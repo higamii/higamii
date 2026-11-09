@@ -6,7 +6,7 @@
 
 * 🔭 Atualmente estudando: **(ex.: FastAPI, Docker, SQL)**
 * 💬 Pergunte-me sobre: **Python, análise de dados, automação**
-* 📫 Contato: [www.linkedin.com/in/thiagocarvalhof](https://linkedin.com/in/seu-perfil) · thiagcarvalho.5@gmail.com
+* 📫 Contato: [www.linkedin.com/in/thiagocarvalhof] · thiagcarvalho.5@gmail.com
 
 ## 🛠️ Stack
 
